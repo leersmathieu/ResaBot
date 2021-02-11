@@ -1,0 +1,69 @@
+Hello !,smalltalk_greetings_hello
+Hi there,smalltalk_greetings_hello
+Hey,smalltalk_greetings_hello
+Greetings,smalltalk_greetings_hello
+Good afternoon,smalltalk_greetings_hello
+Hi,smalltalk_greetings_hello
+Howdy,smalltalk_greetings_hello
+I greet you,smalltalk_greetings_hello
+Hello there,smalltalk_greetings_hello
+Hello again,smalltalk_greetings_hello
+That's correct,smalltalk_confirmation_yes
+It's fine,smalltalk_confirmation_yes
+Go ahead,smalltalk_confirmation_yes
+Sounds good,smalltalk_confirmation_yes
+Okay,smalltalk_confirmation_yes
+Yes,smalltalk_confirmation_yes
+Ok,smalltalk_confirmation_yes
+Sure,smalltalk_confirmation_yes
+Go for it,smalltalk_confirmation_yes
+Yeah,smalltalk_confirmation_yes
+Of course,smalltalk_confirmation_yes
+Correct,smalltalk_confirmation_yes
+Yeah sure,smalltalk_confirmation_yes
+no,smalltalk_confirmation_no
+don't,smalltalk_confirmation_no
+I don't want that,smalltalk_confirmation_no
+I disagree,smalltalk_confirmation_no
+disagree,smalltalk_confirmation_no
+I don't want,smalltalk_confirmation_no
+not interested,smalltalk_confirmation_no
+I don't think so,smalltalk_confirmation_no
+no way,smalltalk_confirmation_no
+no it isn't,smalltalk_confirmation_no
+no I don't,smalltalk_confirmation_no
+I wish to reserve a room for 2 people,longtalk_make_reservation
+I wish to book a room for 4 days,longtalk_make_reservation
+Do you have rooms available from July 23rd?,longtalk_make_reservation
+I would like to reserve a room for two days and for two people,longtalk_make_reservation
+I'd like to reserve a table for four people,longtalk_make_reservation
+I need a room for three days and for two people,longtalk_make_reservation
+I would like to book a table,longtalk_make_reservation
+I'd like to book a room for tonight,longtalk_make_reservation
+Do you have a room available?,longtalk_make_reservation
+"I would like to book a room, please",longtalk_make_reservation
+I would like to book a room for 4 nights,longtalk_make_reservation
+Can I reserve accommodation here?,longtalk_make_reservation
+I would like to make a reservation,longtalk_make_reservation
+Can I reserve for tonight?,longtalk_make_reservation
+Do you have any vacancies?,longtalk_make_reservation
+I  would like a room,longtalk_make_reservation
+I need a double room,longtalk_make_reservation
+I’d like to book a double room for Saturday.,longtalk_make_reservation
+I need a room for one week.,longtalk_make_reservation
+"I want to make a reservation under Albert's the name, please",longtalk_make_reservation
+Do you have any double rooms left for the weekend?,longtalk_make_reservation
+Do you have any double rooms available this weekend?,longtalk_make_reservation
+How much is a double room?,longtalk_price
+What's the price per night?,longtalk_price
+Have you got anything cheaper?,longtalk_price
+Can you offer me any discount?,longtalk_price
+How much cost a suite?,longtalk_price
+What's the cost of a single room?,longtalk_price
+What time is check-in?,longtalk_time
+What time is check-out?,longtalk_time
+What time is breakfast?,longtalk_time
+Is there wifi in the room?,longtalk_internet
+Does the room have internet access?,longtalk_internet
+Is internet a supplement?,longtalk_internet
+Does the price include the wifi?,longtalk_internet
