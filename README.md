@@ -27,15 +27,18 @@ All the work done was made during the BeCode's AI's formation 2020-2021.
 #### Classification using BERT
 
 Constants used
+
 ![Constants](https://github.com/leersmathieu/ResaBot/blob/main/preview/constants.png)
 
 
 ##### Raw Dataset Creation
 
 Creation of a datasets of sentences and labels
+
 ![Dataset](https://github.com/leersmathieu/ResaBot/blob/main/preview/head_dataset.png)
 
 Labels repartition
+
 ![Labels repartition](https://github.com/leersmathieu/ResaBot/blob/main/preview/labels_distribution1.png)
 ![Labels repartition](https://github.com/leersmathieu/ResaBot/blob/main/preview/labels_distribution1.png)
 
