@@ -1,3 +1,4 @@
+sequence,intent
 Hello !,smalltalk_greetings_hello
 Hi there,smalltalk_greetings_hello
 Hey,smalltalk_greetings_hello
@@ -43,7 +44,6 @@ I'd like to book a room for tonight,longtalk_make_reservation
 Do you have a room available?,longtalk_make_reservation
 "I would like to book a room, please",longtalk_make_reservation
 I would like to book a room for 4 nights,longtalk_make_reservation
-Can I reserve accommodation here?,longtalk_make_reservation
 I would like to make a reservation,longtalk_make_reservation
 Can I reserve for tonight?,longtalk_make_reservation
 Do you have any vacancies?,longtalk_make_reservation
@@ -60,10 +60,28 @@ Have you got anything cheaper?,longtalk_price
 Can you offer me any discount?,longtalk_price
 How much cost a suite?,longtalk_price
 What's the cost of a single room?,longtalk_price
-What time is check-in?,longtalk_time
-What time is check-out?,longtalk_time
-What time is breakfast?,longtalk_time
+how much for full board,longtalk_price
 Is there wifi in the room?,longtalk_internet
 Does the room have internet access?,longtalk_internet
 Is internet a supplement?,longtalk_internet
 Does the price include the wifi?,longtalk_internet
+Have you internet access ?,longtalk_internet
+I need the wifi for my work,longtalk_internet
+I have to work online,longtalk_internet
+Do you allow pets?,longtalk_pets
+Is there a supplement for pets?,longtalk_pets
+"I have 2 small dogs, are they allowed?",longtalk_pets
+Are there specific rules for dogs?,longtalk_pets
+I have a cat,longtalk_pets
+Can my animals accompany me?,longtalk_pets
+Do you accept animals?,longtalk_pets
+Does the room have air conditionning?,longtalk_accomodations
+Does the room have television?,longtalk_accomodations
+Is there a swimming pool?,longtalk_accomodations
+Is there a sauna?,longtalk_accomodations
+Is there a gym?,longtalk_accomodations
+Is there a beauty salon?,longtalk_accomodations
+Do you have a wheelchair access?,longtalk_accomodations
+Do you have a car park?,longtalk_accomodations
+Can we park our car somewhere?,longtalk_accomodations
+Is there a lift?,longtalk_accomodations

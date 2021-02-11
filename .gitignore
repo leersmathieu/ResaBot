@@ -131,3 +131,6 @@ dmypy.json
 # Idea
 .idea
 
+
+# The model is too big
+model/
