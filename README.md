@@ -40,7 +40,7 @@ Creation of a datasets of sentences and labels
 Labels repartition
 
 ![Labels repartition](https://github.com/leersmathieu/ResaBot/blob/main/preview/labels_distribution1.png)
-![Labels repartition](https://github.com/leersmathieu/ResaBot/blob/main/preview/labels_distribution1.png)
+![Labels repartition](https://github.com/leersmathieu/ResaBot/blob/main/preview/labels_distribution2.png)
 
 
 ##### Document preprocessing
