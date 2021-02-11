@@ -27,25 +27,25 @@ All the work done was made during the BeCode's AI's formation 2020-2021.
 #### Classification using BERT
 
 Constants used
-![Constants](https://github.com/leersmathieu/ResaBot/preview/constants.png)
+![Constants](https://github.com/leersmathieu/ResaBot/blob/main/preview/constants.png)
 
 
 ##### Raw Dataset Creation
 
 Creation of a datasets of sentences and labels
-![Dataset](https://github.com/leersmathieu/ResaBot/preview/head_dataset.png)
+![Dataset](https://github.com/leersmathieu/ResaBot/blob/main/preview/head_dataset.png)
 
 Labels repartition
-![Labels repartition](https://github.com/leersmathieu/ResaBot/preview/labels_distribution1.png)
-![Labels repartition](https://github.com/leersmathieu/ResaBot/preview/labels_distribution1.png)
+![Labels repartition](https://github.com/leersmathieu/ResaBot/blob/main/preview/labels_distribution1.png)
+![Labels repartition](https://github.com/leersmathieu/ResaBot/blob/main/preview/labels_distribution1.png)
 
 
 ##### Document preprocessing
-![Preprocessing](https://github.com/leersmathieu/ResaBot/preview/preprocessing.png)
+![Preprocessing](https://github.com/leersmathieu/ResaBot/blob/main/preview/preprocessing.png)
 
 
 ##### Labels Encoding
-![Labels](https://github.com/leersmathieu/ResaBot/preview/labels_encoding.png)
+![Labels](https://github.com/leersmathieu/ResaBot/blob/main/preview/labels_encoding.png)
 
 
 ##### Making torch tensors, using Bert, until...
@@ -54,13 +54,11 @@ Labels repartition
 #### Running the new model
 
 ##### Training the new model
-![Training](https://github.com/leersmathieu/ResaBot/preview/training.png)
+![Training](https://github.com/leersmathieu/ResaBot/blob/main/preview/training.png)
 
 
 ##### Results
-![Confusion matrix](https://github.com/leersmathieu/ResaBot/preview/confusion_matrix.png)
-
-
+![Confusion matrix](https://github.com/leersmathieu/ResaBot/blob/main/preview/confusion_matrix.png)
 
 
 ### Progress
