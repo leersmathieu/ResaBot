@@ -65,7 +65,7 @@ Labels repartition
 
 
 #### Making a discord bot
-![Discord discussion](https://github.com/leersmathieu/ResaBot/blob/main/preview/discord_discussion.png)
+![Discord discussion](https://github.com/leersmathieu/ResaBot/blob/main/preview/discussion.png)
 
 ### Progress
 **Finished**
