@@ -60,9 +60,12 @@ Labels repartition
 ![Training](https://github.com/leersmathieu/ResaBot/blob/main/preview/training.png)
 
 
-##### Results
+##### Confusion matrix of the test dataset
 ![Confusion matrix](https://github.com/leersmathieu/ResaBot/blob/main/preview/confusion_matrix.png)
 
+
+#### Making a discord bot
+![Discord discussion](https://github.com/leersmathieu/ResaBot/blob/main/preview/discord_discussion.png)
 
 ### Progress
 **Finished**
