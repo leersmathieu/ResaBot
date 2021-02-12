@@ -56,14 +56,15 @@ def text_preprocessing(text: str):
     return text
 
 
-async def resa_response(message, num_label):
+# ____RESA_RESPONSE
 
+async def resa_response(message, num_label):
     if num_label == 7:
-        await message.channel.send("Hello, this is ResaBot, from the hotel California, can I help you ?")
+        await message.channel.send("Hello, this is ResaBot, from the hotel California, can I help you?")
         # "Hello to you too, I’m ResaBot, and I’m here to answers any question you have about our Hotel."
 
     elif num_label == 6 or num_label == 5:
-        await message.channel.send("Very well, this is dully noted. Anything else I can help you with ?")
+        await message.channel.send("Very well, this is dully noted. Anything else I can help you with?")
 
     elif num_label == 4:
         await message.channel.send("A single room is 32€/night. A double room is 42€/night. A twin room is "
@@ -72,7 +73,7 @@ async def resa_response(message, num_label):
 
     elif num_label == 3:
         await message.channel.send("You can come with two small pets or one big one. There is no supplement "
-                                   "for them, but please, remember that animals are not allowed in the "
+                                   "for them, but please, remember that animals are allowed  neither in the "
                                    "restaurant, nor in the sauna. ")
 
     elif num_label == 2:
@@ -88,8 +89,7 @@ async def resa_response(message, num_label):
     elif num_label == 0:
 
         await message.channel.send("The hotel is fully equipped to accommodate the disabled. We have a bar, "
-                                   "a restaurant, and a sauna. There is a small fee of 5€ to enter the sauna."
-                                   " ")
+                                   "a restaurant, and a sauna. There is a small fee of 5€ to enter the sauna.")
 
     else:
         await message.channel.send("This message shouldn't be here... Please, don't tell them I'm conquering "
